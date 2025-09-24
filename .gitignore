@@ -1,0 +1,7 @@
+# Sensitive runtime configuration
+veg-poster/.env
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
